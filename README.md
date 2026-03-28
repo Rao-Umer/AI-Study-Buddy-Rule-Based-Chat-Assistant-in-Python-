@@ -31,7 +31,7 @@ To create a small chat assistant using Python basics like strings, conditions, d
  💻 Code (chatbot.py)
 
 ```python
-# AI Study Buddy - Simple Chatbot
+# Study Buddy - Simple Chatbot
 
 def get_response(user_input):
     user_input = user_input.lower()
